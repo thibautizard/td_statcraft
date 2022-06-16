@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 
 + Télécharge et installe R [lien](https://cran.r-project.org/bin/windows/base/R-4.2.0-win.exe)
 + Télécharge et installe Rstudio [lien](https://download1.rstudio.org/desktop/windows/RStudio-2022.02.3-492.exe)
-+ Télécharge le zip contenant jeu de données [lien]((https://download1.rstudio.org/desktop/windows/RStudio-2022.02.3-492.exe))
++ Télécharge le zip contenant jeu de données [lien](https://github.com/thibautizard/td_statcraft/raw/main/td.zip) [lien]((https://download1.rstudio.org/desktop/windows/RStudio-2022.02.3-492.exe))
 
 ## Mise en place
 
